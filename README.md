@@ -6,6 +6,10 @@ It encompasses functionalities for managing vendor profiles, tracking purchase o
 
 Users can create, update, and delete vendor profiles, monitor purchase orders, and assess vendor performance metrics such as on-time delivery rate, quality rating average, average response time, and fulfillment rate.
 
+# Assignment
+This project is assigned by the company
+ FATMUG,Delhi,India 
+
 # Tech Stack
 
 Stack: Python, Django, dbsqlite3
